@@ -1,4 +1,4 @@
-import 'package:basic_app/core/utils/validators.dart';
+import 'package:basic_app/core/utils/validator.dart';
 import 'package:basic_app/screens/home/home_screen.dart';
 import 'package:basic_app/screens/login/widgets/custom_text_field.dart';
 import 'package:flutter/material.dart';
