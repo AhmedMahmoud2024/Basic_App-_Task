@@ -4,7 +4,7 @@ A lightweight Flutter application featuring a
 This project demonstrates clean UI practices, reusable widgets.
 
 ## Getting Started
-this is implementation for the week 1 Flutter Task for the internship of Developers Hub corporation.
+this is implementation for the week 1 Flutter Task for the internship of DevelopersHub corporation.
 
 ## Features
 - **Reusable TextFormFields** for email and password input
